@@ -5,6 +5,7 @@ setInterval(()=>{
     stime = d.getSeconds();
     
     hrotation = 3*htime + mtime/2;
+    hrotation-=8;
     mrotation = 6*mtime;
     srotation = 6*stime;
 
