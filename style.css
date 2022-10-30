@@ -5,8 +5,8 @@
 }
 .clock_container{
     margin: auto;
-    height: 400px;
-    width: 400px;
+    height: 40vw;
+    width: 40vw;
     background-image: url(clock.png);
     background-repeat: no-repeat;
     background-size: 100%;
