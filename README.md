@@ -1,1 +1,2 @@
-i want to include html,css.... related codes here
+simple clock
+https://nitish1391016.github.io/clock/
